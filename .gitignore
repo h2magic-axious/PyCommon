@@ -1,0 +1,8 @@
+venv
+*.py[cow]
+*.so
+
+.env
+*.log
+__pycache__
+.idea
